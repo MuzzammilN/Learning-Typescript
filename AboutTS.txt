@@ -1,0 +1,4 @@
+For a global installation use this: npm install -g typescript
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope CurrentUser
+
+tsc intro.ts
